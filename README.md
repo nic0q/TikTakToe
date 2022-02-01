@@ -21,4 +21,6 @@ For example, input: **1** looks like this:<br/>
 `|-| |⭕| |-|`<br/>
 `|-| |-|  |-|`<br/>
 `|-| |-|  |-|`<br/>
--That is all, Enjoy! 🙃
+
+Enjoy! 🙃
+
